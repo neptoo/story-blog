@@ -11,7 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.0.2",
+    "@nuxtjs/axios": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
 }

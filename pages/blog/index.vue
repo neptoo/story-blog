@@ -34,24 +34,6 @@ export default {
       };
     })
   }
-  // data(){
-  //   return {
-  //     posts:[
-  //       {
-  //         title: 'A New Beginning',
-  //         previewText: 'This will be awesome, don\'t miss it!',
-  //         thumbnailUrl: 'http://www.healthyfood.co.uk/wp-content/uploads/2015/01/Cherry-tomato-bocc-olive-basil-pasta.jpg',
-  //         id: "a-new-beginning"
-  //       },
-  //       {
-  //         title: 'A Second Beginning',
-  //         previewText: 'This will be awesome, don\'t miss it!',
-  //         thumbnailUrl: 'http://www.healthyfood.co.uk/wp-content/uploads/2015/01/Cherry-tomato-bocc-olive-basil-pasta.jpg',
-  //         id: "a-second-beginning"
-  //       }
-  //     ]
-  //   }
-  // }
 }
 </script>
 

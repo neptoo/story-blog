@@ -20,3 +20,13 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Tech Stack & Features
+
+- Blog built with Vue.js and nuxt.js
+- [Storyblok](https://www.storyblok.com/) — CMS with visual editor
+- Responsive Design
+- Components and Pages
+
+## Final Effect Screenshot
+
