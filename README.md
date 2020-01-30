@@ -30,3 +30,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## Final Effect Screenshot
 
+![index](static/index.png)
+
+![single-page](static/single-blog.png)
